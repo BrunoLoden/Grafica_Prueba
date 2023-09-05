@@ -46,6 +46,9 @@ plt.grid(True,color='gray', linestyle='--', linewidth=0.5)
 # Mostrarlo.
 plt.show()
 
+#---------------------------------------------------------------
+print("Se agregara una extos extra")
+#---------------------------------------------------------------
     
 
 #%%
